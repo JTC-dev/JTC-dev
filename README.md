@@ -1,4 +1,4 @@
 - 👋 Hi, I’m James
 - 👀 Passionate Python coder. Hobbyist always looking to improve.
 - 🌱 I’m currently learning HTML, c++ and Python.
-- 💞️ Mainly interested in web apps and automation. If you find any bugs or ideas to please let me know.
+- 💞️ Mainly interested in web apps and automation. If you find any bugs or ideas to improve please let me know.
